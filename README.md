@@ -39,10 +39,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-https://imgur.com/64SLG3Z
-![](https://imgur.com/XZs4IPw)
-![](https://imgur.com/scTo2hB)
-![](https://imgur.com/Iqs913u)
+![](https://github.com/IanFlo/CodePath-PreWork/blob/main/gif%201.gif)
+![](https://github.com/IanFlo/CodePath-PreWork/blob/main/gif%202.gif)
+![](https://github.com/IanFlo/CodePath-PreWork/blob/main/gif%203.gif)
+![](https://github.com/IanFlo/CodePath-PreWork/blob/main/gif%204.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
