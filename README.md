@@ -73,7 +73,7 @@ Another feature I thought about was making it so that the user had to click the 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://youtu.be/tFEyYwhA7k0)
 
 
 ## License
